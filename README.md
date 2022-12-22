@@ -4,6 +4,6 @@ Desafio proposto pelo instrutor do curso da Labenu, onde o mesmo solicitou que c
 
 ## Demonstração
 
-<img src="./img/img1.png" style=center>
-<img src="./img/img2.png" style=center>
-<img src="./img/img3.png" style=center>
+<img src="./img/img1.png">
+<img src="./img/img2.png">
+<img src="./img/img3.png">
