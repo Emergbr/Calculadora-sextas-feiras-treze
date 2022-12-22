@@ -3,6 +3,6 @@ Desafio proposto pelo instrutor do curso da Labenu, onde o mesmo solicitou que c
 Ainda manipularei alguns bugs de input para que o usuario não consiga quebrar o script, e farei um layout.
 
 ## Demonstração
-<img src="./img/img1.png">
+<img src="img1.png">
 <img src="./img/img2.png">
 <img src="./img/img3.png">
